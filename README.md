@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Cong Nguyen
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Fullstack+Developer;Flutter+Developer;Cloud+Architecture;Realtime+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Fullstack+Developer;Flutter+Developer;Cloud+Architecture;Realtime+Systems" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🇻🇳 Vietnam Developer
 - 💻 Fullstack Engineer
@@ -16,7 +16,7 @@
 
 ---
 
-# 🔥 Current Projects
+## 🔥 Current Projects
 
 - AI ORM Platform
 - AI Commerce Ecosystem
@@ -34,15 +34,21 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
+---
+
 ## Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+---
 
 ## Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+---
 
 ## Cloud
 
@@ -56,7 +62,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=congnguyen2005&show_icons=true&theme=tokyonight"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congnguyen2005&layout=compact&theme=tokyonight"/>
 </p>
 
