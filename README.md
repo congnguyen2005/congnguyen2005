@@ -189,7 +189,37 @@ Tôi thích xây dựng các sản phẩm:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=congnguyen2005&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=congnguyen2005&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=congnguyen2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=congnguyen2005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🧠 Current Development Focus
+
+```txt
+💻 Building Fullstack Applications
+⚡ Learning AI & Cloud Systems
+🔄 Exploring Realtime Architectures
+📚 Improving Backend & System Design
+🚀 Developing Practical SaaS Projects
+```
+
+---
+
+# 🏆 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=congnguyen2005&theme=tokyonight" width="100%" />
 
 </div>
 
