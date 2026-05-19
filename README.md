@@ -68,12 +68,6 @@
 
 ---
 
-# 🔥 Contribution Snake
-
-![snake gif](https://github.com/congnguyen2005/congnguyen2005/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 🌐 Connect
 
 - Facebook
