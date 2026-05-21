@@ -225,15 +225,21 @@ Tôi thích xây dựng các sản phẩm:
 # 📫 Kết Nối Với Tôi
 
 <div align="center">
-
 <a href="https://github.com/congnguyen2005">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:dangcongnguyenst@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="[https://facebook.com/](https://www.facebook.com/cong.nguyen.339691/)">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
+<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nguy%C3%AAn-%C4%91%E1%BA%B7ng-c%C3%B4ng-421a95331/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://zalo.me/0982509443">
+  <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
+</a>
 </div>
 
 ---
