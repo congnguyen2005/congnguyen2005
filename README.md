@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=congnguyen2005&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congnguyen2005&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
 </div>
 
 ---
@@ -28,11 +24,12 @@ Tôi là lập trình viên Fullstack yêu thích xây dựng các ứng dụng 
 Hiện tại tôi tập trung phát triển các dự án bằng:
 
 * Next.js
-* React
+* React native
 * TypeScript
 * Node.js
-* Supabase
-* PostgreSQL
+* SQL
+* java android code
+* PHP
 
 Đồng thời tôi cũng đang học thêm về:
 
